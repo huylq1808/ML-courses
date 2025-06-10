@@ -13,7 +13,7 @@ Facilitate collaboration and sharing of solutions among contributors.
 
 How to Use
 
-Clone the RepositoryRun the following command to clone this repository to your local machine:  git clone https://github.com/your-username/your-repo-name.git
+Clone the RepositoryRun the following command to clone this repository to your local machine:  git clone https://github.com/huylq1808/ML-courses.git
 
 
 Navigate to a DirectoryExplore the /Assignmet or /labs folders to find tasks of interest.
@@ -38,6 +38,6 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 Contact
 If you have questions, suggestions, or need help, feel free to open an issue or contact the repository owner at:  
 
-Email: huylequang1808@gmail.com 
-GitHub: huylq1808
+Email: huylequang1808@gmail.com   
+GitHub: huylq1808  
 
